@@ -32,7 +32,7 @@ A fun and interactive gesture-controlled game built with Python, OpenCV, and Med
 
 ---
 ## Demo
-![Game Demo](Demo/Screenshot(65).png)
+![Game Demo](Demo/Screenshot (65).png)
 
 ---
 
