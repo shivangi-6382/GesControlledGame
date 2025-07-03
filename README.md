@@ -31,6 +31,11 @@ A fun and interactive gesture-controlled game built with Python, OpenCV, and Med
 - (Optional) PyGame — if used for game logic
 
 ---
+## Demo
+![Game Demo](demo/screenshot(65).png)
+
+---
+
 
 ##  Getting Started
 
