@@ -31,6 +31,10 @@ A fun and interactive gesture-controlled game built with Python, OpenCV, and Med
 - (Optional) PyGame — if used for game logic
 
 ---
+## Tutorial Reference
+This project is built by following the tutorial:
+Automate Hill Climbing Game by KNOWLEDGE DOCTOR
+YouTube Link:[https://youtu.be/ZBtk3GmJMTE?si=IkFt_wKUVAnto6a1]
   
 
 
@@ -51,6 +55,6 @@ pip install opencv-python mediapipe numpy
 ```
 ---
 ## License
-This project is licensed under the MIT License
+This project is for learning purposes.Credits to original creator of the tutorial.
 
   
